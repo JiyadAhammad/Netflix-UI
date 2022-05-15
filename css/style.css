@@ -1,0 +1,207 @@
+
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+.margin{
+    margin: 0px;
+}
+
+.banner {
+    background-color: #000;
+    background-image: url(../img/Netflix\ Bg.jpg);
+    width: 100%;
+    height: 100vh;
+
+}
+
+.banner img {
+    width: 200px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.floatleft{
+    float: left;
+    width: 50%;
+}
+.floatright{
+    float: right;
+    width: 50%;
+}
+
+.banner button {
+    background-color: red;
+    padding: 5px 15px;
+    float: right;
+    margin-top: 30px;
+    margin-right: 50px;
+    font-size: 15px;
+    font-weight: bold;
+    height: 40px;
+    color: #fff;
+    border: 0px;
+    
+}
+
+.banner select {
+    background-color: #aaa;
+    color: #fff;
+    padding: 5px 15px;
+    float: right;
+    margin-top: 30px;
+    margin-right: 20px;
+    font-weight: bold;
+    height: 40px;
+    color: #fff;
+    background: rgb(30, 28, 28);
+}
+.clear-both{
+    clear: both;
+}
+
+.content{
+    text-align: center;
+    color: #fff;
+    padding-top: 150px;
+}
+
+.content h1 {
+    margin: 0px;
+    font-size: 80px;
+    line-height: 70px;
+}
+.content h2{
+    font-size: 32px;
+    margin-top: 10px;
+}
+
+.content h4{
+    font-size: 25px;
+    margin-top: 10px;
+}
+.form{
+    margin: 0 auto;
+    text-align: center;
+    
+    
+}
+.email{
+    width: 647px;
+    height: 56px;
+    border: 0px;
+}
+.submit{
+    background-color: red;
+    border: 0px;
+    width: 150px;
+    height: 56px;
+    color: #fff;
+    font-size: 22px;
+    padding: 13px 0 46px 0;
+    margin-left: -4px
+}
+
+
+
+
+
+
+/*  */
+.story {
+    height: 500px;
+    width: 100%;
+    background-color: #000;
+    color: #fff;
+    border-bottom: 8px solid #222;
+}
+
+.head1{
+    font-size: 60px;
+    margin-top: 170px;
+    margin-left: 250px;
+}
+.head3{
+    margin-left: 250px;
+    font-size: 20px;
+}
+.relative{
+position: relative;
+}
+.relative img{
+    position: absolute;
+    z-index: 9;
+}
+.absolute{
+position: absolute;
+top: 40px;
+left :106px;
+z-index: 0;
+width: 400px;
+}
+.align{
+    margin-left: 0px;
+}
+
+.center-align{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 60px;
+}
+.button-align{
+    margin-left: 355px;
+    background-color: #303030;
+    font-size: 30px;
+    font-weight: 400;
+    height: 70px;
+    color: #fff;
+    border: 0px;
+    width: 805px;
+    text-align: left;
+    margin-top: 10px;
+}
+.storybottom {
+    border: 0px;
+    height: 950px;
+    width: 100%;
+    background-color: #000;
+    color: #fff;
+    border-bottom: 8px solid #222;
+}
+ .footer-head{
+    padding-left: 300px;
+    padding-top: 80px;
+    color: #757575;
+}
+
+.table-align{
+  border: 1px;
+  
+  padding-bottom: 20px;
+  padding-left: 210px;
+  
+  
+}
+.table-align td{
+    padding-left: 90px;
+    padding-top: 15px;
+    color: #757575;
+}
+
+.footer-button select{
+    background: #000 ;
+    color: #757575;
+    width: 110px;
+    height: 50px;
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 30px;
+}
+.footer-button h5{
+    margin-left: 300px;
+    margin-top: 30px;
+    color: #757575;
+}
+
+
+
